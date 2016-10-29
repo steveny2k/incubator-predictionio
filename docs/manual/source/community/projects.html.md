@@ -43,7 +43,7 @@ Run PredictionIO inside Docker.
 
 - Core Author: Ming Fang
 
-- Status: It works with PredictionIO v0.8 - Under active development
+- Status: It works with PredictionIO v0.8
 
 
 ## Another Docker Installation for PredictionIO
@@ -54,7 +54,7 @@ Docker container for PredictionIO-based machine learning services.
 
 - Core Author: Fabian M. Borschel
 
-- Status: Runs latest PredictionIO v0.9.3 - Under active development
+- Status: It works with PredictionIO v0.9.3
 
 
 ## GraphX Parallel SimRank Algorithm
